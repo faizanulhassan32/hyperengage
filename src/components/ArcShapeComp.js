@@ -41,7 +41,7 @@ export default function ArcShape() {
                         </a>
                     </div>
                     <div className="dashboard-image">
-                        <img src="dashboard1.png" alt="Dashboard Image 1" />
+                        <img src="dashboard1.png" alt="Details here" />
                     </div>
                 </div>
             </div>
@@ -49,7 +49,7 @@ export default function ArcShape() {
             <div className="dashboard-container">
                 <div className="dashboard-section">
                     <div className="dashboard-image">
-                        <img src="dashboard2.png" alt="Dashboard Image 2" />
+                        <img src="dashboard2.png" alt="Details here" />
                     </div>
                     <div className="dashboard-content">
                         <h2 className="dashboard-heading">Maximize your  <br /> strategic relationships</h2>
