@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTwitter, faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
 import '../App.css'
 
-export default function footer() {
+export default function Footer() {
     return (
         <div className='main'>
             <div className="footer">
@@ -21,8 +21,8 @@ export default function footer() {
                     </div>
 
                     <div className="social-icons">
-                        <a href="#"><FontAwesomeIcon icon={faTwitter} /></a>
-                        <a href="#"><FontAwesomeIcon icon={faLinkedinIn} /></a>
+                        <a href="https://terzo.ai/"><FontAwesomeIcon icon={faTwitter} /></a>
+                        <a href="https://terzo.ai/"><FontAwesomeIcon icon={faLinkedinIn} /></a>
                     </div>
                     <p className="copyright" >© 2023 Terzo Technologies, Inc. All Rights Reserved.</p>
                 

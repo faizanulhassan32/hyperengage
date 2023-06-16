@@ -1,7 +1,7 @@
 import React from 'react'
 import '../App.css'
 
-export default function imgs_overlapped() {
+export default function ImgsOverlapped() {
     return (
         <div className='main'>
             <div className="container">

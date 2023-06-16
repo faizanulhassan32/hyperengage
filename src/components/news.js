@@ -1,7 +1,7 @@
 import React from 'react'
 import '../App.css'
 
-export default function news() {
+export default function News() {
     return (
         <div className='main'>
             <h1 className="latest-news-heading">

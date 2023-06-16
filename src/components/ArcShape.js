@@ -1,7 +1,7 @@
 import React from 'react'
 import '../App.css'
 
-export default function arc_shape() {
+export default function ArcShape() {
     return (
         <div className='main'>
             <div className="latest-news-heading" >
@@ -59,7 +59,7 @@ export default function arc_shape() {
                     <div className="dashboard-content">
                         <h2 className="dashboard-heading">Speed up intake and <br /> approval processes.</h2>
                         <p className="dashboard-description">No-code workflow templates make this fast and easy to <br /> deploy. Automate tasks and approvals. Govern cost, risk, and <br /> get visibility into all requests..</p>
-                        <a href="#" className="dashboard-learn-more">
+                        <a href="https://terzo.ai/" className="dashboard-learn-more">
                             Learn More
                             <span className="dashboard-arrow">&rarr;</span>
                         </a>
@@ -78,7 +78,7 @@ export default function arc_shape() {
                     <div className="dashboard-content">
                         <h2 className="dashboard-heading">Maximize your  <br /> strategic relationships</h2>
                         <p className="dashboard-description">Robust analytics and reporting provide critical data to <br /> strengthen negotiations and optimize relationships with <br /> customers, suppliers, and partners.</p>
-                        <a href="#" className="dashboard-learn-more">
+                        <a href="https://terzo.ai/" className="dashboard-learn-more">
                             Learn More
                             <span className="dashboard-arrow">&rarr;</span>
                         </a>

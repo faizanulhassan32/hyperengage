@@ -1,7 +1,7 @@
 import React from 'react'
 import '../App.css'
 
-export default function intro() {
+export default function Intro() {
   return (
     <div className='main'>
       <div className="introdiv">

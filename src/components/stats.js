@@ -1,7 +1,7 @@
 import React from 'react'
 import '../App.css'
 
-export default function stats() {
+export default function Stats() {
     return (
         <div className='main'>
             <div className="statistics-grid">

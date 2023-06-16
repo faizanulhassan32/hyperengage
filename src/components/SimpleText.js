@@ -1,7 +1,7 @@
 import React from 'react'
 import '../App.css'
 
-export default function simple_text() {
+export default function SimpleText() {
     return (
         <div className='main'>
             <div className="simple-text">

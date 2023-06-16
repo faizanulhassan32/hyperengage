@@ -1,7 +1,7 @@
 import React from 'react'
 import '../App.css'
 
-export default function second_last() {
+export default function SecondLast() {
     return (
         <div className='main'>
             <div className="logo-container">
