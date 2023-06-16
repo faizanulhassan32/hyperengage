@@ -15,7 +15,7 @@ export default function Dashboard() {
                         </a>
                     </div>
                     <div className="dashboard-image">
-                        <img src="dashboard1.png" alt="Image 1" />
+                        <img src="dashboard1.png" alt="Details here" />
                     </div>
                 </div>
             </div>
@@ -23,7 +23,7 @@ export default function Dashboard() {
             <div className="dashboard-container">
                 <div className="dashboard-section">
                     <div className="dashboard-image">
-                        <img src="dashboard2.png" alt="Image 2" />
+                        <img src="dashboard2.png" alt="Details here" />
                     </div>
                     <div className="dashboard-content">
                         <h2 className="dashboard-heading">Forecast accurately to <br /> meet budget goals</h2>

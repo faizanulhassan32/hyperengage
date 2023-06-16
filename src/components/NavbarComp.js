@@ -8,7 +8,7 @@ export default function Navbar() {
         <div className="logo">
           <img
             src={process.env.PUBLIC_URL + '/logo.png'}
-            alt="Company Logo"
+            alt="Company Logo here"
             style={{ width: '50px', height: '50px' }}
           />
           <span className="companyname">TERZO</span>

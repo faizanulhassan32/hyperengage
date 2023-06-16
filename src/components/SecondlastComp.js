@@ -7,7 +7,7 @@ export default function SecondLast() {
             <div className="logo-container">
                 <img
                     src={process.env.PUBLIC_URL + '/logo.png'}
-                    alt="Logo"
+                    alt="Company logo here"
                     className="logo-image"
                 />
             </div>
