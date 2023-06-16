@@ -1,15 +1,15 @@
 import React from 'react';
 import './App.css';
-import Navbar from './components/Navbar';
-import Intro from './components/Intro';
-import Stats from './components/Stats';
-import ImgsOverlapped from './components/ImgsOverlapped';
-import Dashboard from './components/Dashboard';
-import ArcShape from './components/ArcShape';
-import SimpleText from './components/SimpleText';
-import News from './components/News';
-import SecondLast from './components/SecondLast';
-import Footer from './components/Footer';
+import Navbar from './components/NavbarComp';
+import Intro from './components/IntroComp';
+import Stats from './components/StatisticsComp';
+import ImgsOverlapped from './components/ImgsOverlappedComp';
+import Dashboard from './components/DashboardComp';
+import ArcShape from './components/ArcShapeComp';
+import SimpleText from './components/SimpletextComp';
+import News from './components/NewsComp';
+import SecondLast from './components/SecondlastComp';
+import Footer from './components/FooterComp';
 
 function App() {
   return (
