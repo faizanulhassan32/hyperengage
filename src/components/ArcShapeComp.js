@@ -8,10 +8,34 @@ export default function ArcShape() {
                 Enhance your applications <br /> with integrations
             </div>
 
+
             <div className="integrations-section">
                 <p className="dashboard-description" style={{ marginTop: "25px", paddingLeft: "50px" }} > Integrate your existing enterprise applications out of <br /> the box. Terzo connects to ERP, P2P, SSO and more. </p>
                 <div className="arc-container">
-                    {/* Rest of your code */}
+                    <div className="arc-left">
+                        <div className="arc-box" >
+                            <p>Microsoft</p>
+                        </div>
+                        <div className="arc-box" style={{ marginTop: "50px", marginLeft: "70px" }} >
+                            <p>ORACLE</p>
+                        </div>
+                        <div className="arc-box" style={{ marginTop: "50px", marginLeft: "140px" }} >
+                            <p>servicenow</p>
+                        </div>
+                    </div>
+                    <div className="arc-boundary"></div>
+                    <div className="arc-right">
+                        <div className="arc-box" >
+                            <p>SAP Ariba</p>
+                        </div>
+                        <div className="arc-box" style={{ marginTop: "50px", marginLeft: "-70px" }} >
+                            <p>Workday</p>
+                        </div>
+                        <div className="arc-box" style={{ marginTop: "50px", marginLeft: "-140px" }} >
+                            <p>coupa</p>
+                        </div>
+                    </div>
+
                 </div>
             </div>
 
@@ -24,7 +48,7 @@ export default function ArcShape() {
             <div className="logo-container">
                 <img
                     src={process.env.PUBLIC_URL + '/logo.png'}
-                    alt="Terzo Logo"
+                    alt="Company logo here"
                     className="logo-image"
                     style={{ marginTop: "-300px", width: "150px", height: "150px" }}
                 />
@@ -61,6 +85,7 @@ export default function ArcShape() {
                     </div>
                 </div>
             </div>
+
         </div>
     )
 }
